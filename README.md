@@ -1,3 +1,6 @@
 # Mycode
 zzl文件中是python处理中文的代码,去除中文以外的其他字符,分词等
 pretreatment是天池比赛预处理得类
+inverted_index是构建倒排索引的类
+judge是评价函数
+getdata是方便获取数据的类
