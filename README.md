@@ -4,3 +4,4 @@ pretreatment是天池比赛预处理得类
 inverted_index是构建倒排索引的类
 judge是评价函数
 getdata是方便获取数据的类
+code2int是将uid和mid加密的字符串转为int的形式
